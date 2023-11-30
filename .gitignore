@@ -1,0 +1,11 @@
+.idea
+.vscode
+tests
+__pycache__
+parse.php
+test.php
+is_it_ok_sh
+ipp-2023-tests
+out.html
+out.html3
+testfold
